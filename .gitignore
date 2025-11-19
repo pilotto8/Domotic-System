@@ -1,0 +1,5 @@
+build
+*.DS_store
+*.devcontainer
+*.vscode
+*.component_hash
